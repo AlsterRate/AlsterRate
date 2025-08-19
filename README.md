@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is me:
+<picture>
+ <source media= srcset="https://github.com/user-attachments/assets/0eeee2c0-5c13-481a-b296-5c124552aadb">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/user-attachments/assets/0eeee2c0-5c13-481a-b296-5c124552aadb" width="100">
+</picture>
+
+Hoping to learn some coding this year!
+
